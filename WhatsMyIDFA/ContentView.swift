@@ -9,8 +9,9 @@
 import SwiftUI
 
 struct ContentView: View {
+    let idfa = IDFASniffer.sniff()
+
     var body: some View {
-        let idfa = IDFASniffer.sniff()
         return Text(idfa)
     }
 }

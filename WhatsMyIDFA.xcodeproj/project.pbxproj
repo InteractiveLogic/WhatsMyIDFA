@@ -61,11 +61,11 @@
 				C81751AB23E38CC000503D37 /* AppDelegate.swift */,
 				C81751AD23E38CC000503D37 /* SceneDelegate.swift */,
 				C81751AF23E38CC000503D37 /* ContentView.swift */,
+				C81751BF23E38FB000503D37 /* IDFASniffer.swift */,
 				C81751B123E38CC100503D37 /* Assets.xcassets */,
 				C81751B623E38CC100503D37 /* LaunchScreen.storyboard */,
 				C81751B923E38CC100503D37 /* Info.plist */,
 				C81751B323E38CC100503D37 /* Preview Content */,
-				C81751BF23E38FB000503D37 /* IDFASniffer.swift */,
 			);
 			path = WhatsMyIDFA;
 			sourceTree = "<group>";
